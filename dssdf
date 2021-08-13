@@ -2,3 +2,9 @@ if [ -d teste ]
   then
     echo "diretorio existe"
 fi
+
+funcao() {
+
+echo "OK
+
+}
